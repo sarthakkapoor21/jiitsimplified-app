@@ -2,10 +2,10 @@
 #
 
 # Site settings
-title: JIIT Simplified Mobile App
+title: JIIT Simplified
 description: |
   Stay Connected Stay Simplifed
-owner: Siddhartha Dimania # or company name
+owner: jiitsimplified # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: siddimania@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
